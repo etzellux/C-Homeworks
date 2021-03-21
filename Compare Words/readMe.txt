@@ -1,0 +1,1 @@
+For given list of words, this program compares the word you give with words in the list and prints similarity points.

@@ -1,0 +1,1 @@
+This program counts how many times a given letter occurs in a given text.
